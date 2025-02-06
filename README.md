@@ -51,11 +51,11 @@ eplay-ebac/
 
 ## ✨ Funcionalidades
 
-✅ Listagem de jogos
-✅ Adição ao carrinho
-✅ Remoção de itens do carrinho
-✅ Resumo de compra
-✅ Página de detalhes do jogo
+- ✅ Listagem de jogos  
+- ✅ Adição ao carrinho  
+- ✅ Remoção de itens do carrinho  
+- ✅ Resumo de compra  
+- ✅ Página de detalhes do jogo  
 
 ---
 
