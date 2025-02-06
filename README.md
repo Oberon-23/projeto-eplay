@@ -1,7 +1,5 @@
 # 🎮 E-Play EBAC
 
-![E-Play Banner](https://via.placeholder.com/1000x300?text=E-Play+EBAC) <!-- Substitua por um banner real se tiver -->
-
 ---
 
 ## 📌 Sobre o Projeto
@@ -30,7 +28,7 @@ git clone https://github.com/Oberon-23/eplay-ebac.git
 cd eplay-ebac
 npm install
 npm start
-
+```
 ---
 
 ## 📂 Estrutura do Projeto
@@ -57,3 +55,9 @@ eplay-ebac/
 ✅ Remoção de itens do carrinho
 ✅ Resumo de compra
 ✅ Página de detalhes do jogo
+
+---
+
+## 👨‍💻 Autor
+Projeto desenvolvido por Oberon-23.
+
