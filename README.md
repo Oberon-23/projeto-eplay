@@ -55,7 +55,13 @@ eplay-ebac/
 - ✅ Adição ao carrinho  
 - ✅ Remoção de itens do carrinho  
 - ✅ Resumo de compra  
-- ✅ Página de detalhes do jogo  
+- ✅ Página de detalhes do jogo
+
+---
+
+## Demonstração
+
+Confira o projeto publicado: [Eplay - Deploy](https://eplay-ebac-delta.vercel.app/)
 
 ---
 
