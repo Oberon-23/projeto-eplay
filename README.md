@@ -33,6 +33,7 @@ npm start
 
 ## 📂 Estrutura do Projeto
 
+```
 eplay-ebac/
 │-- public/
 │-- src/
@@ -45,7 +46,7 @@ eplay-ebac/
 │-- .gitignore
 │-- package.json
 │-- README.md
-
+```
 ---
 
 ## ✨ Funcionalidades
