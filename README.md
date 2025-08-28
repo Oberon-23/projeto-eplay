@@ -1,10 +1,31 @@
+<div align="center"> 
+  <img width="256" height="256" src="https://img.icons8.com/color/512/controller.png" alt="eplay-logo" />
+</div>
+
 # 🎮 E-Play EBAC
+
+![React](https://img.shields.io/badge/react-18-blue)
+![Redux](https://img.shields.io/badge/redux-toolkit-purple)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+🔗 [Acesse o projeto aqui](https://eplay-ebac-delta.vercel.app/)
 
 ---
 
 ## 📌 Sobre o Projeto
 
-E-Play é um projeto desenvolvido durante o curso da EBAC com o objetivo de criar uma plataforma de e-commerce para jogos digitais. Ele foi construído utilizando tecnologias modernas do ecossistema JavaScript.
+**E-Play** é um projeto desenvolvido durante o curso da **EBAC**, com o objetivo de criar uma plataforma de **e-commerce para jogos digitais**.  
+Ele foi construído utilizando tecnologias modernas do ecossistema **JavaScript**, focando em boas práticas de componentização, gerenciamento de estado e responsividade.
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Listagem de jogos disponíveis  
+- 🛒 Adição de jogos ao carrinho  
+- ❌ Remoção de itens do carrinho  
+- 💳 Resumo de compra com cálculo automático  
+- 📄 Página de detalhes do jogo  
 
 ---
 
@@ -13,27 +34,31 @@ E-Play é um projeto desenvolvido durante o curso da EBAC com o objetivo de cria
 - ⚛ **ReactJS** – Biblioteca para construção da interface  
 - 🎭 **Styled Components** – Estilização com componentes dinâmicos  
 - 🔄 **Redux** – Gerenciamento de estado  
+- 🛒 **Redux Toolkit** – Simplificação do gerenciamento do carrinho  
 - 🚦 **React Router** – Navegação entre páginas  
-- 🛒 **Redux Toolkit** – Gerenciamento simplificado do carrinho  
-- 🎮 **Fake API** – Simulação de uma API de produtos  
+- 🎮 **Fake API** – Simulação de dados de produtos  
 
 ---
 
 ## 📦 Instalação e Uso
 
-Clone o repositório e siga os passos abaixo:
+Para rodar o projeto localmente, siga os passos abaixo:
 
 ```bash
-git clone https://github.com/Oberon-23/eplay-ebac.git
-cd eplay-ebac
-npm install
-npm start
-```
----
+# Clone o repositório
+$ git clone https://github.com/Oberon-23/eplay-ebac.git
 
-## 📂 Estrutura do Projeto
+# Acesse a pasta
+$ cd eplay-ebac
 
+# Instale as dependências
+$ npm install
+
+# Execute o projeto
+$ npm start
 ```
+## Estrutura do projeto 
+
 eplay-ebac/
 │-- public/
 │-- src/
@@ -46,25 +71,16 @@ eplay-ebac/
 │-- .gitignore
 │-- package.json
 │-- README.md
-```
----
-
-## ✨ Funcionalidades
-
-- ✅ Listagem de jogos  
-- ✅ Adição ao carrinho  
-- ✅ Remoção de itens do carrinho  
-- ✅ Resumo de compra  
-- ✅ Página de detalhes do jogo
 
 ---
 
-## Demonstração
+## Autor 
 
-Confira o projeto publicado: [Eplay - Deploy](https://eplay-ebac-delta.vercel.app/)
+Projeto desenvolvido por Oberon-23
 
 ---
 
-## 👨‍💻 Autor
-Projeto desenvolvido por Oberon-23.
+## Licença
 
+Este projeto está sob a licença MIT
+## Licença
