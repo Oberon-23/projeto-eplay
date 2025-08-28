@@ -8,8 +8,6 @@
 ![Redux](https://img.shields.io/badge/redux-toolkit-purple)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 [Acesse o projeto aqui](https://eplay-ebac-delta.vercel.app/)
-
 ---
 
 ## 📌 Sobre o Projeto
