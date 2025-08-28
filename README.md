@@ -10,14 +10,14 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 **E-Play** é um projeto desenvolvido durante o curso da **EBAC**, com o objetivo de criar uma plataforma de **e-commerce para jogos digitais**.  
 Ele foi construído utilizando tecnologias modernas do ecossistema **JavaScript**, focando em boas práticas de componentização, gerenciamento de estado e responsividade.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - ✅ Listagem de jogos disponíveis  
 - 🛒 Adição de jogos ao carrinho  
@@ -27,7 +27,7 @@ Ele foi construído utilizando tecnologias modernas do ecossistema **JavaScript*
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - ⚛ **ReactJS** – Biblioteca para construção da interface  
 - 🎭 **Styled Components** – Estilização com componentes dinâmicos  
@@ -38,7 +38,7 @@ Ele foi construído utilizando tecnologias modernas do ecossistema **JavaScript*
 
 ---
 
-## 📦 Instalação e Uso
+## Instalação e Uso
 
 Para rodar o projeto localmente, siga os passos abaixo:
 
